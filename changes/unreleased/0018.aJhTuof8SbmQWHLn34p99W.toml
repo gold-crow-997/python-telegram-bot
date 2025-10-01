@@ -1,0 +1,5 @@
+dependencies = "Bump astral-sh/setup-uv from 5.4.1 to 6.8.0"
+[[pull_requests]]
+uid = "18"
+author_uid = "dependabot[bot]"
+closes_threads = []
