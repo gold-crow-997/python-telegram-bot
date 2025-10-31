@@ -1,0 +1,5 @@
+dependencies = "Bump furo from 2024.8.6 to 2025.9.25"
+[[pull_requests]]
+uid = "16"
+author_uid = "dependabot[bot]"
+closes_threads = []
